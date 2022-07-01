@@ -2,10 +2,6 @@ export default {
   server: {
     host: '0.0.0.0'
   },
-  target: 'static',
-  router: {
-    base: '/<repository-name>/'
-  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'reading-json-from-iis',
